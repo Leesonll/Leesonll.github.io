@@ -1,5 +1,5 @@
-#微乐捕鱼
-##新鱼添加流程
+# 微乐捕鱼
+## 新鱼添加流程
 1.获得美术提交的资源
 2.在挂有timeline组件的节点添加XTimeLineBrige脚本
 3.如果技能鱼有独立摄像机,在摄像机的父节点上添加XCameraAddToStack脚本并指向MainCamera
