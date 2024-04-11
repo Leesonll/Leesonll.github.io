@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to Leeson Page
 
-_yay_
-
-[back](./)
+[微乐捕鱼](./wlfish.html)
