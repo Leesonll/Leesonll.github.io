@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Welcome to Leeson Page
   
 ## 2024.04.11  
@@ -11,6 +7,9 @@ layout: default
 [微乐捕鱼](./wlfish.html)  
   
 ## 2021.05.17  
-[大熊封神](./fsd.html)  
+[大熊封神](./fsd.html)
+
+## 测试  
+[测试](./test.html)  
 
 
